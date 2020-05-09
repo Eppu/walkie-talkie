@@ -1,6 +1,6 @@
 # Walkie Talkie
 
-A walkie-talkie style chat app with Vue & Firebase.
+A real-time chat based on audio clips. Powered by Vue & Firebase.
 
 ## Project setup
 
